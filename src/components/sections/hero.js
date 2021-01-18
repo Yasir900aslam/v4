@@ -17,7 +17,7 @@ const StyledHeroSection = styled.section`
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
 
-    @media (max-width: 480px) {
+    @media (max-width: 380px) {
       margin: 0 0 20px 2px;
     }
   }
