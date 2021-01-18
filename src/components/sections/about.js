@@ -132,7 +132,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'Django',
+    'C++',
+    'HTML & (S)CSS',
+    'React',
+    'Node.js',
+    'GraphQl',
+    'Firebase',
+    'AWS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +152,22 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! Yasir, a software engineer based in Pakistan, Lahore.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              Since I was 14, I wrote my first program in C++ thus started my journey in
+              programming, I love to work on projects that force me to leave my comfort-zone. If I
+              am programming, you will find me play football, love to swim and trek. I also write
+              sometimes.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I graduated from{' '}
+              <a href="https://www.ucp.edu.pk">University of Central Punjab, Lahore</a>, after that
+              I started working as a freelance at <a href="https://www.fiverr.com">Fiverr</a> and{' '}
+              <a href="https://www.upwork.com">upwork</a>
+              where I work on a wide variety of interesting and meaningful projects on a daily
+              basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
