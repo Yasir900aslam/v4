@@ -20,6 +20,10 @@ const StyledHeroSection = styled.section`
     @media (max-width: 380px) {
       margin: 0 0 20px 2px;
     }
+    @media (max-height: 500px) {
+      padding-top: 15%;
+      margin: 0 0 20px 2px;
+    }
   }
 
   h3 {
