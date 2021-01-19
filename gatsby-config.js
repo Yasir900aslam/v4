@@ -22,7 +22,7 @@ module.exports = {
         name: 'Yasir Aslam',
         short_name: 'Yasir Aslam',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: '#020c1b',
         theme_color: config.colors.navy,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
