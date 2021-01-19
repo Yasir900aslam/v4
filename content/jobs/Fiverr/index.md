@@ -7,6 +7,6 @@ range: 'July - December 2017'
 url: 'https://www.fiver.com/music/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
+- Developed and shipped highly interactive web applications for Qwotme Music using Ember.js
 - Built and shipped the Qwotme Music Extension within Facebook Messenger leveraging third-party and internal APIs
 - Architected and implemented the front-end of Qwotme Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
