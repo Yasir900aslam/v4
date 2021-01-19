@@ -1,8 +1,8 @@
 ---
 date: '2016-11-16'
 title: 'Weather Widget'
-github: 'https://github.com/bchiang7/DemoWebApp'
-external: 'http://quiet-dusk-89245.herokuapp.com/'
+github: 'https://github.com/yasir900aslam'
+external: 'https://www.fiverr.com/yasirchaudhry67'
 tech:
   - Node
   - Express
