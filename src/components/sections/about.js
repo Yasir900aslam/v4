@@ -156,9 +156,9 @@ const About = () => {
 
             <p>
               I was 14 when I wrote my first program in C++ thus started my journey in programming,
-              till then I have worked on exciting projects, I love to work on projects that force me
-              to leave my comfort-zone. If I am not programming, you will find me playing football,
-              love to swim and trek. I also write sometimes.
+              since then I have worked on exciting projects, I love to work on projects that force
+              me to leave my comfort-zone. If I am not programming, you will find me playing
+              football, love to swim and trek. I also write sometimes.
             </p>
 
             <p>
