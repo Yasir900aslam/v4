@@ -155,10 +155,10 @@ const About = () => {
             <p>Hello! Yasir, a software engineer based in Pakistan, Lahore.</p>
 
             <p>
-              Since I was 14, I wrote my first program in C++ thus started my journey in
-              programming, I love to work on projects that force me to leave my comfort-zone. If I
-              am programming, you will find me play football, love to swim and trek. I also write
-              sometimes.
+              I was 14 when I wrote my first program in C++ thus started my journey in programming,
+              till then I have worked on exciting projects, I love to work on projects that force me
+              to leave my comfort-zone. If I am not programming, you will find me play football,
+              love to swim and trek. I also write sometimes.
             </p>
 
             <p>
