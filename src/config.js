@@ -7,10 +7,6 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/yasir900aslam',
     },
-    {
-      name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/yasir-aslam-93199b13b',
-    },
   ],
 
   navLinks: [
