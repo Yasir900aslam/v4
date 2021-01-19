@@ -1,8 +1,8 @@
 ---
 date: '2018-05-01'
 title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+github: 'https://www.github.com/yasir900aslam/'
+external: 'https://www.fiver.com/yasirchaudhry67/'
 tech:
   - WordPress
   - Timber

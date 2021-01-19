@@ -1,8 +1,8 @@
 ---
 date: '2016-04-01'
 title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
-external: ''
+github: 'https://github.com/yasir900aslam/'
+external: 'https://www.fiver.com/yasirchaudhry67'
 tech:
   - Angular
   - Node

@@ -4,7 +4,7 @@ title: 'Full-Stack Engineer'
 company: 'Qwotme'
 location: 'Cupertino, CA'
 range: 'July - December 2020'
-url: 'https://www.fiver.com/music/'
+url: 'https://www.fiver.com/yasirchaudhry67/'
 ---
 
 - Developed and shipped highly interactive web applications for Qwotme Music using Ember.js

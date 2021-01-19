@@ -1,8 +1,8 @@
 ---
 date: '2017-03-01'
 title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
-external: ''
+github: 'https://github.com/yasir900aslam/'
+external: 'https://www.fiverr.com/yasirchaudhry67'
 tech:
   - React
   - Firebase
