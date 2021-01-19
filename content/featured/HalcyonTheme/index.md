@@ -3,7 +3,7 @@ date: '1'
 title: 'Halcyon Theme'
 cover: './halcyon.png'
 github: 'https://github.com/yasir900aslam'
-external: 'https://halcyon-theme.netlify.com/'
+external: ' '
 tech:
   - VS Code
   - Sublime Text

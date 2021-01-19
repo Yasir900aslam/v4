@@ -2,7 +2,7 @@
 date: '2020-03-27'
 title: 'Integrating Algolia Search with WordPress Multisite'
 github: 'https://www.github.com/yasir900aslam/'
-external: 'https://www.fiverr.com/yasirchaudhry67'
+external: 'https://www.fiverr.com/yasirchaudhry67/'
 tech:
   - Algolia
   - WordPress
