@@ -152,7 +152,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! Yasir, a software engineer based in Pakistan, Lahore.</p>
+            <p>Hello! I am a software engineer based in Pakistan, Lahore.</p>
 
             <p>
               I was 14 when I wrote my first program in C++ thus started my journey in programming,
