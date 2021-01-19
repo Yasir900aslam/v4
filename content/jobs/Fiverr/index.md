@@ -3,7 +3,7 @@ date: '2017-12-21'
 title: 'Full-Stack Engineer'
 company: 'Qwotme'
 location: 'Cupertino, CA'
-range: 'July - December 2017'
+range: 'July - December 2020'
 url: 'https://www.fiver.com/music/'
 ---
 
